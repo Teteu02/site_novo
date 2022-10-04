@@ -1,0 +1,92 @@
+body{
+    background-image: url(cinema.jfif);
+    margin: 0%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.home{
+    display: flex;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: center;
+
+    
+}
+.home a:hover{
+    background-color: aqua;
+}
+#im{
+    width: 150px;
+}
+a{
+    padding: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    margin-inline-end: 10px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: white
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
+    font-size: 18px;
+}
+
+img{
+    border-radius: 50%;
+}
+section, p{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+}
+section, h4{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 30px;
+    color: white
+}
+ul,p{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+section, .osca{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 43px;
+    color: white
+}
+footer{
+    background-color: black;
+    margin: auto;
+}
+#foot{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 0px;
+}
+#fott{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+#insta{
+    margin-bottom: 20px;
+    font-size: 15px;
+
+}
+#dese{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
